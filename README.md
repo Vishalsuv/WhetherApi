@@ -24,3 +24,5 @@ JavaScript: Examples of using Weather API within JavaScript applications (also s
 PowerQuery: Examples of using Weather API in Microsoft PowerQuery scripts (within Excel, PowerBI etc).
 
 RaspberryPi: Examples of using Weather API in Raspberry PI.
+If you need any INFO ❤️
+Vishalmsk143@gmail.com
